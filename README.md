@@ -148,4 +148,4 @@ Team contests with live scoreboard updates
 
 Problem-import tools (Codeforces / SPOJ format)
 
-Mobile-friendly UI and offline practice mode22222
+Mobile-friendly UI and offline practice mode
